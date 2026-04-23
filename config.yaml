@@ -184,6 +184,7 @@ teams:
     members:
       - exploreriii
       - manishdait
+      - ddeskov-limechain
   - name: hiero-sdk-python-committers
     maintainers:
       - nadineloepfe
@@ -194,6 +195,7 @@ teams:
       - aceppaluni
       - AntonioCeppellini
       - Akshat8510
+      - ddeskov-limechain
   - name: hiero-sdk-python-triage
     maintainers:
       - nadineloepfe
@@ -243,6 +245,7 @@ teams:
       - gsstoykov
     members:
       - SimiHunjan
+      - ddeskov-limechain
   - name: hiero-sdk-rust-committers
     maintainers:
       - RickyLB
@@ -253,8 +256,7 @@ teams:
   - name: hiero-sdk-rust-triage
     maintainers:
       - gsstoykov
-    members:
-      - ddeskov-limechain
+    members: []
   - name: hiero-sdk-java-maintainers
     maintainers:
       - 0xivanov
@@ -263,6 +265,7 @@ teams:
       - agadzhalov
       - emiliyank
       - mustafauzunn
+      - ddeskov-limechain
   - name: hiero-sdk-java-committers
     maintainers:
       - 0xivanov
@@ -274,11 +277,11 @@ teams:
     maintainers:
       - 0xivanov
       - mustafauzunn
-    members:
-      - ddeskov-limechain
+    members: []
   - name: hiero-sdk-js-maintainers
     maintainers:
       - SimiHunjan
+      - ddeskov-limechain
     members:
       - venilinvasilev
       - ivaylonikolov7
@@ -287,6 +290,7 @@ teams:
   - name: hiero-sdk-js-committers
     maintainers:
       - SimiHunjan
+      - ddeskov-limechain
     members:
       - agadzhalov
       - 0xivanov
@@ -299,16 +303,17 @@ teams:
       - venilinvasilev
       - ivaylonikolov7
     members:
-      - ddeskov-limechain
       - a-saksena
       - SimiHunjan
       - rwalworth
+      - ddeskov-limechain
   - name: hiero-sdk-cpp-maintainers
     maintainers:
       - rwalworth
     members:
       - SimiHunjan
       - gsstoykov
+      - ddeskov-limechain
   - name: hiero-sdk-cpp-committers
     maintainers:
       - rwalworth
@@ -327,6 +332,7 @@ teams:
       - rwalworth
     members:
       - SimiHunjan
+      - ddeskov-limechain
   - name: hiero-sdk-tck-committers
     maintainers:
       - rwalworth
@@ -342,20 +348,23 @@ teams:
     maintainers:
       - SimiHunjan
       - rwalworth
+      - ddeskov-limechain
     members:
       - a-saksena
-      - ddeskov-limechain
   - name: hiero-sdk-go-maintainers
     maintainers:
       - SimiHunjan
+      - ddeskov-limechain
     members:
       - 0xivanov
       - agadzhalov
       - gsstoykov
       - Dosik13
+      - ddeskov-limechain
   - name: hiero-sdk-go-committers
     maintainers:
       - SimiHunjan
+      - ddeskov-limechain
     members:
       - ivaylogarnev-limechain
       - 0xivanov
@@ -365,8 +374,7 @@ teams:
     maintainers:
       - 0xivanov
       - gsstoykov
-    members:
-      - ddeskov-limechain
+    members: []
   - name: hiero-solo-action-maintainers
     maintainers:
       - hendrikebbers
@@ -912,6 +920,8 @@ teams:
       - gsstoykov
       - venilinvasilev
       - naydenovn
+      - Dosik13
+      - mariodimitrovv
     members: []
   - name: sdk-collaboration-hub-triage
     maintainers:
